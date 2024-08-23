@@ -1,1 +1,1 @@
-# mern-stack-cicd-eks-deployment
+# Running a Mern Stack in Ubuntu Server
